@@ -1,0 +1,6 @@
+[submodule "ArmstrongPCB"]
+	path = ArmstrongPCB
+	url = git@github.com:Ericjuntao/ArmstrongPCB.git
+[submodule "Senior_Design"]
+	path = Senior_Design
+	url = git@github.com:BangBangBen/Senior_Design.git

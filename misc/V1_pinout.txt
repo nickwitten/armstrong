@@ -1,0 +1,15 @@
+V1 PINS
+
+Screen:
+	DC - D7
+	BL - D9
+	CS - GND (Not connected)
+	CLK - D13
+	DIN - D11
+	RST - D8
+
+CTRL - D5
+PB - A6
+ON - D3
+ENC1 - A2
+ENC2 - A3
