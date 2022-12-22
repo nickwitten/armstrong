@@ -9,3 +9,7 @@ for a transformer based stimulation circuit and also a boost/H-bridge based stim
 The project also contains the firmware located in
 /ArmstrongSoftware/
 which can be flashed to an Arduino. There is separate firmware for the transformer based circuit and the boost/H-bridge based circuit.
+
+The directory
+/deliverables/
+contains all of the design files that were used in the final product. A lot of other folders were used for exploring ideas and debugging.
